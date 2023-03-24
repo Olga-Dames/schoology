@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/schoology/static/css/main.7acaea2f.css",
-    "main.js": "/schoology/static/js/main.07d3183d.js",
+    "main.js": "/schoology/static/js/main.0d40adeb.js",
     "index.html": "/schoology/index.html",
     "main.7acaea2f.css.map": "/schoology/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/schoology/static/js/main.07d3183d.js.map"
+    "main.0d40adeb.js.map": "/schoology/static/js/main.0d40adeb.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.0d40adeb.js"
   ]
 }
